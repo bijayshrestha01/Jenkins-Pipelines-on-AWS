@@ -5,7 +5,7 @@ A simple Jenkins Pipeline project that lints and deploys a static website to S3 
 ![](Jenkins%20Pipeline.png)
 
 # Instructions
-This project is more of a step-by-step tutorial. Please follow the Udacity guidelines found [here] (documentation.md)to recreate the project.
+This project is more of a step-by-step tutorial. Please follow the Udacity guidelines found in the documentation.md file to recreate the project.
 
 ***Files Included***
 
