@@ -3,5 +3,4 @@ A simple Jenkins Pipeline project that lints and deploys a static website to S3 
 
 # Pipeline
 ![](Jenkins%20Pipeline.png)
-![](Jenkins_Pipeline.png)
 
